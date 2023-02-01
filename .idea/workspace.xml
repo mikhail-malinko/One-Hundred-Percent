@@ -5,15 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddee3b8e-0499-4d07-a47c-bcbc0ad95987" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/netology/percent/service/StatisticsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/netology/percent/service/StatisticsServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -31,9 +44,85 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "D:/java.netology/oneHundredPercent/src/test/java"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.StatisticsServiceTest.findMaxOfNegativeReturns">
+    <configuration name="StatisticsServiceTest.findMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oneHundredPercent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.percent.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.percent.service" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.percent.service.StatisticsServiceTest" />
+      <option name="METHOD_NAME" value="findMax" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatisticsServiceTest.findMaxOfNegativeReturns" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oneHundredPercent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.percent.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.percent.service" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.percent.service.StatisticsServiceTest" />
+      <option name="METHOD_NAME" value="findMaxOfNegativeReturns" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatisticsServiceTest.findMaxWhenAtTheEnd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oneHundredPercent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.percent.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.percent.service" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.percent.service.StatisticsServiceTest" />
+      <option name="METHOD_NAME" value="findMaxWhenAtTheEnd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatisticsServiceTest.findMaxWhenInTheMiddle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oneHundredPercent" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.percent.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.percent.service" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.percent.service.StatisticsServiceTest" />
+      <option name="METHOD_NAME" value="findMaxWhenInTheMiddle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StatisticsServiceTest.findMaxOfNegativeReturns" />
+        <item itemvalue="JUnit.StatisticsServiceTest.findMaxWhenAtTheEnd" />
+        <item itemvalue="JUnit.StatisticsServiceTest.findMaxWhenInTheMiddle" />
+        <item itemvalue="JUnit.StatisticsServiceTest.findMax" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
